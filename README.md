@@ -1,3 +1,5 @@
 # Técnicas e Práticas de Codificação
 
-<iframe width='160' height='400' src='https://leanpub.com/progpro/embed' frameborder='0' allowtransparency='true'></iframe>
+Neste repositório há alguns exemplos que são tratados no livro a seguir:
+
+[Programador Profissional: Técnicas e Práticas de Codificação](https://leanpub.com/progpro/)
